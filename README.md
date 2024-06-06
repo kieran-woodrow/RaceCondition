@@ -39,7 +39,7 @@ Small code that explains a race condition in swift playground
 
 ## 🎮 Usage
 
-Can be run in vs code or terminal.
+Can be run in xcode
 
 ---
 
